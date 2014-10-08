@@ -3,6 +3,18 @@ adeus mundo
 def init():
    for i in range(10):
        print(i)
+   # nada
+   print("aaaaaa")
+
+def init():
+   for i in range(10):
+       print(i)
+   print("aaaaaa")
+
+
+def init():
+   for i in range(10):
+       print(i)
    print("aaaaaa")
    
 
