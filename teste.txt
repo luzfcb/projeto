@@ -1,6 +1,8 @@
-ola mundo
+adeus mundo
 
 def init():
+   for i in range(10):
+       print(i)
    print("aaaaaa")
    
 
