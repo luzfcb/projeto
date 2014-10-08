@@ -1,0 +1,6 @@
+ola mundo
+
+def init():
+   print("aaaaaa")
+   
+
