@@ -12,13 +12,6 @@ def init():
    print("aaaaaa")
 
 
-def init():
-   for i in range(10):
-       print(i)
-   print("aaaaaa")
-   
-   for i in range(10):
-   print("aaaaaa")
 
 
 def init():
