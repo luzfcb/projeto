@@ -1,5 +1,5 @@
 import unittest
-from programa import verifica_igual, faz_algo
+from programa import verifica_igual, faz_algo, soma, subtracao
  
 class TestaVerificaIgual(unittest.TestCase):
  
