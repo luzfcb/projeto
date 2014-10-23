@@ -24,7 +24,8 @@ def faz_algo(faz=False, p=False):
     print("passou no final")
     return valor
  
- 
+
+
 # if __name__ == "__main__": # pragma: no cover
 #     if len(sys.argv) > 1:
 #         faz_algo(faz=True, p=True)

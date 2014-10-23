@@ -14,6 +14,9 @@ class TestaVerificaIgual(unittest.TestCase):
     
     def test_soma(self):
         self.assertEqual( soma(3,3), 6)
+        
+    def test_subtracao(self):
+        self.assertEqual( subtracao(10,7), 3)        
 
 class TestaFazAlgo(unittest.TestCase):
  
