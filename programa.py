@@ -4,10 +4,10 @@ import sys
 def verifica_igual(a, b):
     return True if a == b else False
 
-def soma(a, b)
+def soma(a, b):
     return a + b
 
-def subtracao(a, b)
+def subtracao(a, b):
     return a - b
 
 def faz_algo(faz=False, p=False):
