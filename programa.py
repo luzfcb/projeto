@@ -2,7 +2,7 @@ import sys
 
 
 def verifica_igual(a, b):
-    pass
+    return True if a == b else False
 
 def soma(a, b)
     return a + b
