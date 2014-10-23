@@ -11,6 +11,9 @@ class TestaVerificaIgual(unittest.TestCase):
  
     def test_numero_3_igual_3(self):
         self.assertEqual( verifica_igual(3,3), True)
+    
+    def test_soma(self):
+        self.assertEqual( soma(3,3), 6)
 
 class TestaFazAlgo(unittest.TestCase):
  
