@@ -30,7 +30,7 @@ class TestaFazAlgo(unittest.TestCase):
         self.assertEqual( faz_algo(True), 1)
         
     def test_faz_algo_2(self):
-        self.assertEqual( faz_algo(True, True), True)        
+        self.assertEqual( faz_algo(True, False), True)        
  
 if __name__ == '__main__':
     unittest.main()
