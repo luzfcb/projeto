@@ -7,7 +7,7 @@ class TestaVerificaIgual(unittest.TestCase):
         pass
  
     def test_numero_3_igual_4(self):
-        self.assertEqual( verifica_igual(3,4), False)
+        self.assertEqual( verifica_igual(3,4), True)
  
     def test_numero_3_igual_3(self):
         self.assertEqual( verifica_igual(3,3), True)
