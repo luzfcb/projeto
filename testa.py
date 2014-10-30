@@ -13,7 +13,7 @@ class TestaVerificaIgual(unittest.TestCase):
         self.assertEqual( verifica_igual(3,3), True)
     
     def test_soma(self):
-        self.assertEqual( soma(3,3), 6)
+        self.assertEqual( soma(3,3), 8)
         
     def test_subtracao(self):
         self.assertEqual( subtracao(10,7), 3)        
